@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Игорь Тишутин](https://up.htmlacademy.ru/htmlcss/18/user/340175).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Мальнев] (https://up.htmlacademy.ru/htmlcss/18/user/86681) https://htmlacademy.ru/profile/fuckomako 
 
 ---
 
