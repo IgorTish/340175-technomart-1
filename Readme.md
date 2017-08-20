@@ -2,7 +2,7 @@
 
 * Студент: [Игорь Тишутин](https://up.htmlacademy.ru/htmlcss/18/user/340175 https://htmlacademy.ru/profile/id340175; Skype: tigorka44).
 * Наставник: [Дмитрий Мальнев] (https://up.htmlacademy.ru/htmlcss/18/user/86681) https://htmlacademy.ru/profile/fuckomako 
-
+Дмитрий!
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
